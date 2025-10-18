@@ -14,11 +14,7 @@
     background-color:rgb(96, 93, 7);
 
 
-}
-.name{
-    display: flex;
-    align-items: left;
-}
+}
 .tech{
     font-size: medium;
     font-family: Gevena;
